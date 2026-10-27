@@ -1,0 +1,6 @@
+{
+  "name": "DeenPluse",
+  "description": "An all-in-one digital companion for daily Islamic worship, real-time Hijri date, Moon-phase tracker, location-based prayer times with Azan, global news, and Quran library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
